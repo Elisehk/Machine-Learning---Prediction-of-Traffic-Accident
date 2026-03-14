@@ -1,6 +1,8 @@
 # Machine-Learning---Prediction-of-Traffic-Accident
 Prediction of Traffic Accident with Machine Learning
 
+Dataset: https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents/data
+
 Objectives:
 
 1.To practise machine learning (ML) with data analysis on traffic accidents
